@@ -1,2 +1,2 @@
 # NoobChain
-A blockchain-based project in Java that simulates wallet creation, transactions, and block mining. 
+A blockchain-based project in Java that simulates wallet creation, transactions, and block mining. The project allows for sending funds between wallets, validating transactions using unspent transaction outputs (UTXOs), and ensuring transactions are only processed when valid funds are available. I implemented basic cryptographic techniques, such as creating digital signatures to ensure the integrity and security of the transactions. Throughout this project, I gained hands-on experience with key blockchain concepts like mining, transaction verification, and UTXO management.
